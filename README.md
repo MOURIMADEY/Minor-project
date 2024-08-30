@@ -1,0 +1,2 @@
+# Minor
+college project
